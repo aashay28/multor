@@ -1,4 +1,4 @@
-import { Grid } from '@material-ui/core';
+import { Grid } from '@mui/material';
 import React from 'react';
 import FiveStarSvg from '../assets/svg/5stars.svg';
 import FourHalfStarSvg from '../assets/svg/4-5stars.svg';
