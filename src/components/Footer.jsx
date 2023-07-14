@@ -1,4 +1,4 @@
-import { Grid } from '@material-ui/core';
+import { Grid } from '@mui/material';
 import React from 'react';
 import FooterLogoSvg from '../assets/svg/footer-logo.svg';
 const Footer = () => {
