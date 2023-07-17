@@ -1,7 +1,6 @@
-import { Grid } from '@mui/material';
 import React from 'react';
-
 import LogoSvg from '../assets/svg/main-logo.svg';
+import { Grid } from '@mui/material';
 const HeaderSection = () => {
   return (
     <Grid className='relative bg-bannerImage bg-cover bg-center bg-no-repeat'>

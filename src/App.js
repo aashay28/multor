@@ -10,7 +10,7 @@ import HeaderSection from './components/HeaderSection';
 
 function App() {
   return (
-    <>
+    <div>
       <HeaderSection />
       <Appointment />
       <ShowVisitors />
@@ -19,7 +19,7 @@ function App() {
       <FeatureCard />
       <About />
       <Footer />
-    </>
+    </div>
   );
 }
 
