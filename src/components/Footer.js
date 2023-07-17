@@ -9,7 +9,7 @@ const Footer = () => {
     >
       <img src={FooterLogoSvg} alt='logo' className='' />
       <div className='text-[#a1adac] text-center mt-4 lg:mt-0'>
-        © 2020 Insert Name Here. All rights reserved.
+        © 2023 By Aashay. All rights reserved.
       </div>
     </Grid>
   );
