@@ -12,7 +12,7 @@ const About = () => {
       </Grid>
       <Grid item sm={12} md={12} lg={6}>
         <div className='text-[var(--subheading)] font-bold mt-16'>About</div>
-        <div className='text-2xl font-bold lg:text-5xl lg:pe-48 mt-4'>
+        <div className='text-[var(--font-color)]  text-2xl font-bold lg:text-5xl lg:pe-48 mt-4'>
           Some more information about your business
         </div>
         <div className='text-desc lg:pe-48 mt-4'>

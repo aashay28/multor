@@ -22,8 +22,8 @@ const Appointment = () => {
           </div>
         ))}
       </Grid>
-      <Grid item sm={12} md={12} lg={4} className='-translate-y-24 m-4'>
-        <Box className='bg-[var(--font-color)] justify-center ps-8 pe-8 p-4  lg:ps-24 lg:pe-24 lg:p-12 '>
+      <Grid item sm={12} md={12} lg={4} className='lg:-translate-y-24'>
+        <Box className='bg-[var(--font-color)] justify-center ps-8 pe-8 p-12  lg:ps-24 lg:pe-24 lg:p-12 '>
           <div className='text-white text-2xl font-bold mb-4 text-center'>
             Schedule an Appointment
           </div>

@@ -1,6 +1,5 @@
 .text-3xl,
-.text-5xl,
-.text-2xl {
+.text-5xl {
   color: var(--font-color);
 }
 .text-desc {
