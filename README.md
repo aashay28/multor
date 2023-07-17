@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Multor-Theme
+### Created by Aashay in 7 hours
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Multor-Theme is a UI-based theme created for a challenge. This project utilizes Material-UI and Tailwind CSS to provide a visually appealing and responsive design.
 
-## Available Scripts
+## Description
+The Multor-Theme project is a demonstration of a user interface design without any functional implementation. The goal was to create an aesthetically pleasing theme using Material-UI and Tailwind CSS within a limited timeframe of 7 hours.
 
-In the project directory, you can run:
+The project showcases the seamless integration of Material-UI components and the flexibility of Tailwind CSS utility classes. The combination of these two powerful frameworks allows for the creation of visually stunning user interfaces with ease.
 
-### `npm start`
+Please note that this project is purely for demonstration purposes and does not include any functional features or backend integration. It serves as a showcase of UI design skills and the ability to leverage popular CSS frameworks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+Material-UI: A popular React UI framework that provides a set of pre-built components following the Material Design guidelines. It offers a wide range of customizable and reusable UI elements.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Tailwind CSS: A utility-first CSS framework that provides a set of utility classes for rapid and flexible styling. Tailwind CSS allows for easy customization and responsive design.
 
-### `npm test`
+## Installation
+To run the Multor-Theme project locally, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the repository:
 
-### `npm run build`
+```
+# Clone Repo
+git clone https://github.com/aashay28/multor.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Navigate to the project directory:
+cd multor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install the dependencies:
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Start the development server:
+npm start
+```
+Open your browser and visit http://localhost:3000 to view the Multor-Theme application.
 
-### `npm run eject`
+## Credits
+Aashay: Lead developer and designer of the Multor-Theme project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## UI Screens
+![Screenshot 2023-07-17 at 2 46 46 PM](https://github.com/aashay28/multor/assets/108337259/3265ef1f-3a79-45b9-845a-2d68c8270bd3)
+![Screenshot 2023-07-17 at 2 46 55 PM](https://github.com/aashay28/multor/assets/108337259/ad90c5aa-07bd-4913-baf1-7b7f8939e00a)
+![Screenshot 2023-07-17 at 2 47 12 PM](https://github.com/aashay28/multor/assets/108337259/b6fbdba4-6ae6-44dd-922a-f73490c6ec92)
+![Screenshot 2023-07-17 at 2 47 17 PM](https://github.com/aashay28/multor/assets/108337259/429b3cb0-94d7-4790-80c6-c6037056e24e)
+![Screenshot 2023-07-17 at 2 47 27 PM](https://github.com/aashay28/multor/assets/108337259/08298322-422b-401a-aea1-7144c61b238e)
+![Screenshot 2023-07-17 at 2 47 40 PM](https://github.com/aashay28/multor/assets/108337259/a496393d-cfd6-4aac-ad1a-79b75736fece)
+![Screenshot 2023-07-17 at 2 47 59 PM](https://github.com/aashay28/multor/assets/108337259/17abee84-bc60-43b7-b68f-b23c9c45f7d1)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please note that the above readme description is a template and should be customized to reflect the specific details of your project.
